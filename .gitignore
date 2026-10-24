@@ -1,0 +1,4 @@
+# Deny by default: only these two public files may be added normally.
+/*
+!/.gitignore
+!/README.md
